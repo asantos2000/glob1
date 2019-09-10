@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": "Default access control on u_glob1_table",
+  "name": "u_glob1_table",
+  "operation": "read",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-10 18:47:49",
+  "sys_id": "07486571dbb337006a6ad001cf96194a",
+  "sys_mod_count": 0,
+  "sys_name": "u_glob1_table",
+  "sys_package": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_policy": null,
+  "sys_scope": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_update_name": "sys_security_acl_07486571dbb337006a6ad001cf96194a",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-10 18:47:49",
+  "type": "record"
+}

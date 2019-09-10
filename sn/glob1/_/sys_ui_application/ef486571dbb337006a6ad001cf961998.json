@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "glob1",
+  "order": null,
+  "roles": "glob1_user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-10 18:47:50",
+  "sys_id": "ef486571dbb337006a6ad001cf961998",
+  "sys_mod_count": 0,
+  "sys_name": "glob1",
+  "sys_package": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_policy": null,
+  "sys_scope": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_update_name": "sys_ui_application_ef486571dbb337006a6ad001cf961998",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-10 18:47:50"
+}

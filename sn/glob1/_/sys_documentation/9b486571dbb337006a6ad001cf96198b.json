@@ -1,0 +1,23 @@
+{
+  "element": "u_number",
+  "help": null,
+  "hint": null,
+  "label": "Number",
+  "language": "en",
+  "name": "u_glob1_table",
+  "plural": "Numbers",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-10 18:47:50",
+  "sys_id": "9b486571dbb337006a6ad001cf96198b",
+  "sys_mod_count": 0,
+  "sys_name": "Number",
+  "sys_package": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_policy": null,
+  "sys_scope": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_update_name": "sys_documentation_u_glob1_table_u_number_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-10 18:47:50",
+  "url": null,
+  "url_target": null
+}
