@@ -1,0 +1,23 @@
+{
+  "element": null,
+  "help": null,
+  "hint": null,
+  "label": "Glob1 Table",
+  "language": "en",
+  "name": "u_glob1_table",
+  "plural": "Glob1 Tables",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-09-10 18:47:50",
+  "sys_id": "df486571dbb337006a6ad001cf961960",
+  "sys_mod_count": 1,
+  "sys_name": "Glob1 Table",
+  "sys_package": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_policy": null,
+  "sys_scope": "0b48e171dbb337006a6ad001cf9619d5",
+  "sys_update_name": "sys_documentation_u_glob1_table__en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-09-10 18:47:50",
+  "url": null,
+  "url_target": null
+}
